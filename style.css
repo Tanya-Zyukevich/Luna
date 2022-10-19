@@ -12,3 +12,11 @@ p, li{
 html{
     background-color: rgb(157, 174, 228);
   }
+
+  body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(179, 192, 204);
+    padding: 0 20px 20px 20px;
+    border: 6xp black;
+  }
